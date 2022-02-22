@@ -53,6 +53,7 @@ const person3: IPerson = {
     age: 52,
 };
 
+const personArr: Array<IPerson> = [person1, person2];
 
 // Enums
 const PI = 3.1416;

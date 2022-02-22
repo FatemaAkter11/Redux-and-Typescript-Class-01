@@ -40,6 +40,7 @@ var person3 = {
     name: "Mehzabin",
     age: 52
 };
+var personArr = [person1, person2];
 // Enums
 var PI = 3.1416;
 var Colors;
